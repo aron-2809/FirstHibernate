@@ -34,7 +34,7 @@
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">update</property>
 
-        <mapping class="com.onespan.hibernate.dto.User"/>
+        <mapping class="com.somecompany.hibernate.dto.User"/>
 
     </session-factory>
 

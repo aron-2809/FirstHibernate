@@ -1,4 +1,4 @@
-package com.onespan.hibernate.dto;
+package com.somecompany.hibernate.dto;
 
 import javax.persistence.Embeddable;
 

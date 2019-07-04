@@ -1,4 +1,4 @@
-package com.onespan.hibernate;
+package com.somecompany.hibernate;
 
 import java.util.Date;
 
@@ -6,8 +6,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-import com.onespan.hibernate.dto.Address;
-import com.onespan.hibernate.dto.User;
+import com.somecompany.hibernate.dto.Address;
+import com.somecompany.hibernate.dto.User;
 
 public class HibernateTest {
 
